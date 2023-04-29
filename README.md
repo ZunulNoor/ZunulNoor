@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@zun_ul_noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zun_ul_noor" height="30" width="40" /></a>
 <a href="https://fb.com/zun ul noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zun ul noor" height="30" width="40" /></a>
-<a href="https://instagram.com/@st.by.zun_ul_no0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@st.by.zun_ul_no0r" height="30" width="40" /></a>
+<a href="www.instagram.com/st.by.zun_ul_no0r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@st.by.zun_ul_no0r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
