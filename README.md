@@ -1,4 +1,4 @@
- <img src="https://cdni.iconscout.com/illustration/premium/thumb/young-boy-coding-in-html-language-in-laptop-4386443-3638119.png?f=webp" align="center" width=50%>
+<center><img src="https://cdni.iconscout.com/illustration/premium/thumb/young-boy-coding-in-html-language-in-laptop-4386443-3638119.png?f=webp" width=50%></center>
 
 <h1 align="center">Assallam u ALaikum 👋, I'm Zun-ul-Noor</h1>
 <h3 align="center">A passionate frontend developer</h3>
