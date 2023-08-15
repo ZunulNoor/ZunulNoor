@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zunulnoor" alt="zunulnoor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zunulnoor" target="blank"><img src="https://img.shields.io/twitter/follow/zunulnoor?logo=twitter&style=for-the-badge" alt="zunulnoor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zun_ul_noor" target="blank"><img src="https://img.shields.io/twitter/follow/zun_ul_noor?logo=twitter&style=for-the-badge" alt="zun_ul_noor" /></a> </p>
 
 - 💬 Ask me about **react, express, bootstrap**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zunulnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zunulnoor" height="30" width="40" /></a>
+<a href="https://twitter.com/zun_ul_noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zun_ul_noor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zunulnoornoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunulnoornoor" height="30" width="40" /></a>
 <a href="https://fb.com/zunnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zunnoor" height="30" width="40" /></a>
 <a href="https://instagram.com/zun_ul_noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zun_ul_noor" height="30" width="40" /></a>
