@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,MongoDB,Mysql,ExpressJS**
 
-- 📫 How to reach me **zunnoor46@gmail.com**
+- 📫 How to reach me **zunulnoor28@gmail.com**
 
 - ⚡ Fun fact **I think I am superman**
 
