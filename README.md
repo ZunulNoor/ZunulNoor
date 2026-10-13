@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=zunulnoor&label=Profile%20views&color=0e75b6&style=flat" alt="zunulnoor" />
 
-<p align="left"> <a href="https://github.com/ZunulNoor/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zunulnoor" alt="zunulnoor" /></a> </p>
+<p align="left"> <a href="https://github.com/ZunulNoor/github-profile-trophy"><img src="https://github-profile-trophy-zunulnoor.vercel.app/?username=zunulnoor" alt="zunulnoor" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zun_ul_noor" target="blank"><img src="https://img.shields.io/twitter/follow/zun_ul_noor?logo=twitter&style=for-the-badge" alt="zun_ul_noor" /></a> </p>
 
