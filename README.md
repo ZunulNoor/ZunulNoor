@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zun Ul Noor</h1>
 <h3 align="center">Fullstack Developer from Pakistan</h3>
 
-<img src="https://komarev.com/ghpvc/?username=zunulnoor&label=Profile%20views&color=0e75b6&style=flat" alt="zunulnoor" />
+<!-- <img src="https://komarev.com/ghpvc/?username=zunulnoor&label=Profile%20views&color=0e75b6&style=flat" alt="zunulnoor" /> -->
 
 <p align="left"> <a href="https://github.com/ZunulNoor/github-profile-trophy"><img src="https://github-profile-trophy-zunulnoor.vercel.app/?username=zunulnoor" alt="zunulnoor" /></a> </p>
 
